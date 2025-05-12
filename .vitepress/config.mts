@@ -11,7 +11,12 @@ export default defineConfig({
     }
   },
   themeConfig: {
-    nav: [],
+    nav: [
+       { text: 'Story', link: '/story' },
+       { text: 'Details', link: '/details' },
+       { text: 'RSVP', link: '/rsvp' },
+       { text: 'Gallery', link: '/gallery' },
+    ],
     sidebar: [],
     socialLinks: [
       { icon: "facebook", link: "https://www.facebook.com/nlhkha/" },
