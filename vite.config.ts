@@ -36,7 +36,29 @@ export default defineConfig({
                                 file: "index.md",
                                 fields: [
                                     createField("string", { name: "layout", default: "home" }),
-                                    createField("markdown", { name: "body" })
+                                    createField("object", {
+                                        name: "hero",
+                                        label: "Hero",
+                                        fields: [
+                                            createField("string", { name: "name", label: "Name" }),
+                                            createField("string", { name: "text", label: "Text" }),
+                                            createField("string", { name: "tagline", label: "Tagline" }),
+                                            createField("list", {
+                                                name: "actions", label: "Tagline", fields: [
+                                                    createField("select", { name: "theme", options: ["brand", "alt"] }),
+                                                    createField("string", { name: "text" }),
+                                                    createField("string", { name: "link" }),
+                                                ]
+                                            }),
+                                        ]
+                                    }),
+                                    createField("list", {
+                                        name: "features", label: "Features", fields: [
+                                            createField("string", { name: "title" }),
+                                            createField("string", { name: "details" }),
+                                        ]
+                                    }),
+                                    createField("markdown", { name: "body" }),
                                 ]
                             },
                             {

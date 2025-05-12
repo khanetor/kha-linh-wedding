@@ -27,6 +27,40 @@ collections:
           - name: layout
             default: home
             widget: string
+          - name: hero
+            label: Hero
+            fields:
+              - name: name
+                label: Name
+                widget: string
+              - name: text
+                label: Text
+                widget: string
+              - name: tagline
+                label: Tagline
+                widget: string
+              - name: actions
+                label: Tagline
+                fields:
+                  - name: theme
+                    options:
+                      - brand
+                      - alt
+                    widget: select
+                  - name: text
+                    widget: string
+                  - name: link
+                    widget: string
+                widget: list
+            widget: object
+          - name: features
+            label: Features
+            fields:
+              - name: title
+                widget: string
+              - name: details
+                widget: string
+            widget: list
           - name: body
             widget: markdown
       - name: story

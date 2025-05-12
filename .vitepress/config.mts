@@ -9,5 +9,13 @@ export default defineConfig({
       light: "catppuccin-latte",
       dark: "catppuccin-macchiato",
     }
+  },
+  themeConfig: {
+    nav: [],
+    sidebar: [],
+    socialLinks: [
+      { icon: "facebook", link: "https://www.facebook.com/nlhkha/" },
+      { icon: "facebook", link: "https://www.facebook.com/Linhh.Nguyenn" },
+    ]
   }
 })
