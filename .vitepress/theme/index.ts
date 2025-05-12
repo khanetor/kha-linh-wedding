@@ -1,5 +1,6 @@
 // https://vitepress.dev/guide/custom-theme
 // import Layout from "./Layout.vue"
+import Countdown from "./components/Countdown.vue"
 import { h } from "vue"
 import type { Theme } from "vitepress"
 import DefaultTheme from "vitepress/theme"
@@ -14,6 +15,6 @@ export default {
     })
   },
   enhanceApp({ app, router, siteData }) {
-    // ...
+    app.component("Countdown", Countdown)
   }
 } satisfies Theme
