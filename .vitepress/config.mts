@@ -19,8 +19,7 @@ export default defineConfig({
     ],
     sidebar: [],
     socialLinks: [
-      { icon: "facebook", link: "https://www.facebook.com/nlhkha/" },
-      { icon: "facebook", link: "https://www.facebook.com/Linhh.Nguyenn" },
+      // { icon: "facebook", link: "https://www.facebook.com/nlhkha/" },
     ]
   }
 })
