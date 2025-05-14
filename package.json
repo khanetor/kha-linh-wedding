@@ -3,7 +3,6 @@
     "@catppuccin/vitepress": "^0.1.2"
   },
   "devDependencies": {
-    "vite-plugin-decap-cms": "^0.4.0",
     "vitepress": "^1.6.3"
   },
   "scripts": {
