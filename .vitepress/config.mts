@@ -28,8 +28,17 @@ export default defineConfig({
       lang: "en"
     },
     vi: {
+      title: "Đám cưới Kha và Linh",
       label: "Vietnamese",
       lang: "vi",
+      themeConfig: {
+        nav: [
+       { text: 'Câu chuyện', link: '/vi/story' },
+       { text: 'Thông tin', link: '/vi/details' },
+       { text: 'RSVP', link: '/vi/rsvp' },
+       { text: 'Thư viện ảnh', link: '/vi/gallery' },
+    ],
+      }
     }
   }
 })
