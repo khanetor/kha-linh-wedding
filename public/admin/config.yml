@@ -19,10 +19,16 @@ media_folder: src/public
 collections:
   - name: pages
     label: Pages
+    i18n:
+      structure: single_file
+      locales:
+        - en
+        - vi
     files:
       - name: home
         label: Home
         file: index.md
+        i18n: true
         fields:
           - name: layout
             default: home
@@ -32,12 +38,15 @@ collections:
             fields:
               - name: name
                 label: Name
+                i18n: true
                 widget: string
               - name: text
                 label: Text
+                i18n: true
                 widget: string
               - name: tagline
                 label: Tagline
+                i18n: true
                 widget: string
               - name: actions
                 label: Tagline
@@ -48,8 +57,10 @@ collections:
                       - alt
                     widget: select
                   - name: text
+                    i18n: true
                     widget: string
                   - name: link
+                    i18n: true
                     widget: string
                 widget: list
             widget: object
@@ -57,41 +68,55 @@ collections:
             label: Features
             fields:
               - name: title
+                i18n: true
                 widget: string
               - name: details
+                i18n: true
                 widget: string
             widget: list
           - name: body
+            i18n: true
             widget: markdown
       - name: story
         label: Our Story
         file: story.md
+        i18n: true
         fields:
           - name: title
+            i18n: true
             widget: string
           - name: body
+            i18n: true
             widget: markdown
       - name: details
         label: Wedding Details
         file: details.md
+        i18n: true
         fields:
           - name: title
+            i18n: true
             widget: string
           - name: body
+            i18n: true
             widget: markdown
       - name: rsvp
         label: RSVP
         file: rsvp.md
+        i18n: true
         fields:
           - name: title
+            i18n: true
             widget: string
           - name: body
+            i18n: true
             widget: markdown
       - name: gallery
         label: Gallery
         file: gallery.md
+        i18n: true
         fields:
           - name: title
+            i18n: true
             widget: string
           - name: images
             field:

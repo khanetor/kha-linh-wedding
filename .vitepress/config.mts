@@ -21,5 +21,15 @@ export default defineConfig({
     socialLinks: [
       // { icon: "facebook", link: "https://www.facebook.com/nlhkha/" },
     ]
+  },
+  locales: {
+    root: {
+      label: "English",
+      lang: "en"
+    },
+    vi: {
+      label: "Vietnamese",
+      lang: "vi",
+    }
   }
 })
