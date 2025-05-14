@@ -13,7 +13,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
        { text: 'Story', link: '/story' },
-       { text: 'Details', link: '/details' },
+       { text: 'Events', link: '/events' },
        { text: 'RSVP', link: '/rsvp' },
        { text: 'Gallery', link: '/gallery' },
     ],
@@ -34,7 +34,7 @@ export default defineConfig({
       themeConfig: {
         nav: [
        { text: 'Câu chuyện', link: '/vi/story' },
-       { text: 'Thông tin', link: '/vi/details' },
+       { text: 'Sự kiện cưới', link: '/vi/events' },
        { text: 'RSVP', link: '/vi/rsvp' },
        { text: 'Thư viện ảnh', link: '/vi/gallery' },
     ],

@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "@catppuccin/vitepress": "^0.1.2"
+    "@catppuccin/vitepress": "^0.1.2",
+    "dayjs": "^1.11.13"
   },
   "devDependencies": {
     "vitepress": "^1.6.3"
