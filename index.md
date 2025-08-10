@@ -23,9 +23,9 @@ features:
   - icon: 🎉
     title: Celebration party
     details: Thứ hai, 29/12/2025
-    link: /vi/events
+    link: /events#celebration-party-in-hanoi
   - icon: 💒
     title: Wedding party
     details: Chủ Nhật, 11/1/2026
-    link: /vi/events
+    link: /events#wedding-party-in-ho-chi-minh-city
 ---

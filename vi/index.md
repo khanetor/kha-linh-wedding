@@ -23,10 +23,10 @@ features:
   - icon: 🎉
     title: Tiệc mừng
     details: Thứ hai, 29/12/2025
-    link: /vi/events
+    link: /vi/events#tiec-mung-tai-ha-noi
   - icon: 💒
     title: Tiệc cưới
     details: Chủ Nhật, 11/1/2026
-    link: /vi/events
+    link: /vi/events#tiec-cuoi-tai-thanh-pho-ho-chi-minh
     
 ---

@@ -35,9 +35,6 @@ onUnmounted(function () {
 </script>
 
 <template>
-  <div class="save-the-date">
-    {{ saveTheDate }}
-  </div>
   <div class="container">
     <div class="time-unit">
       <div class="value">
@@ -91,6 +88,8 @@ onUnmounted(function () {
   display: flex;
   flex-direction: row;
   gap: 2rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 .container>.time-unit {
@@ -108,12 +107,5 @@ onUnmounted(function () {
 
 .container>.time-unit>.unit {
   text-transform: capitalize;
-}
-
-.save-the-date {
-  font-weight: bold;
-  font-size: 1.2rem;
-  margin-left: 0.3rem;
-  margin-bottom: 0.7rem;
 }
 </style>
