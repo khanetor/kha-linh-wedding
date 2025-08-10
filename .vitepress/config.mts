@@ -12,10 +12,10 @@ export default defineConfig({
   },
   themeConfig: {
     nav: [
-       { text: 'Story', link: '/story' },
-       { text: 'Events', link: '/events' },
-       { text: 'RSVP', link: '/rsvp' },
-       { text: 'Gallery', link: '/gallery' },
+      { text: 'Events', link: '/events' },
+      { text: 'Our story', link: '/story' },
+      { text: 'Gallery', link: '/gallery' },
+      { text: 'RSVP', link: '/rsvp' },
     ],
     sidebar: [],
     socialLinks: [
@@ -33,11 +33,11 @@ export default defineConfig({
       lang: "vi",
       themeConfig: {
         nav: [
-       { text: 'Câu chuyện', link: '/vi/story' },
-       { text: 'Sự kiện cưới', link: '/vi/events' },
-       { text: 'RSVP', link: '/vi/rsvp' },
-       { text: 'Thư viện ảnh', link: '/vi/gallery' },
-    ],
+          { text: 'Sự kiện', link: '/vi/events' },
+          { text: 'Câu chuyện', link: '/vi/story' },
+          { text: 'Album ảnh', link: '/vi/gallery' },
+          { text: 'Xác nhận tham dự', link: '/vi/rsvp' },
+        ],
       }
     }
   }
