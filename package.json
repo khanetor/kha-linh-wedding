@@ -1,7 +1,9 @@
 {
   "dependencies": {
     "@catppuccin/vitepress": "^0.1.2",
-    "dayjs": "^1.11.13"
+    "dayjs": "^1.11.13",
+    "viewerjs": "^1.11.7",
+    "vitepress-plugin-image-viewer": "^1.1.6"
   },
   "devDependencies": {
     "vitepress": "^1.6.3"
