@@ -11,4 +11,5 @@
 
 ## Development Guidelines
 - There are 2 languages being used: English, and Vietnamese, so always consider this when creating contents.
+- Markdown files should have frontmatter section at the top
 - You can add pending changes to git, but **DO NOT** try to call git commit unless I explicitly tell you to do so.
