@@ -28,5 +28,4 @@ features:
     title: Tiệc cưới
     details: Chủ Nhật, 11/1/2026
     link: /vi/events#tiec-cuoi-tai-thanh-pho-ho-chi-minh
-    
 ---
