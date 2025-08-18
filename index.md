@@ -15,6 +15,9 @@ hero:
     - theme: alt
       text: View Gallery
       link: /gallery
+    - theme: alt
+      text: Gifts
+      link: /gifts
 
 features:
   - icon: 🎉

@@ -15,6 +15,9 @@ hero:
     - theme: alt
       text: Xem album ảnh
       link: /vi/gallery
+    - theme: alt
+      text: Quà mừng
+      link: /vi/gifts
 
 features:
   - icon: 🎉
