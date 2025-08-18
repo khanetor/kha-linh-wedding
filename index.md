@@ -6,7 +6,7 @@ hero:
   text: Kha & Linh
   tagline:
   image:
-    src: images/hero.jpg
+    src: /images/hero.jpg
     alt: wedding
   actions:
     - text: RSVP

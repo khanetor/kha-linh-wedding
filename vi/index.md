@@ -6,7 +6,7 @@ hero:
   text: Hoàng Kha & Khánh Linh
   tagline:
   image:
-    src: ../images/hero.jpg
+    src: /images/hero.jpg
     alt: wedding
   actions:
     - text: Xác nhận tham dự
