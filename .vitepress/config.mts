@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Kha & Linh wedding",
-  description: "A website to host the wedding information and pictures for Kha and Linh",
+  title: "Kha & Linh: Our Forever Begins",
+  description: "Join us in celebrating the wedding of Kha & Linh. Find all the information you need about our special day.",
   markdown: {
     theme: {
       light: "catppuccin-latte",
@@ -28,7 +28,8 @@ export default defineConfig({
       lang: "en"
     },
     vi: {
-      title: "Đám cưới Kha và Linh",
+      title: "Kha & Linh: Ngày Chung Đôi",
+      description: "Chào mừng bạn đến với website đám cưới của Kha & Linh. Tại đây bạn có thể tìm thấy tất cả thông tin về ngày trọng đại của chúng tôi.",
       label: "Tiếng Việt",
       lang: "vi",
       themeConfig: {
