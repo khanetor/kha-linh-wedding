@@ -33,7 +33,9 @@ features:
 
 ## Thank You
 
-Thank you for visiting our wedding website. We are so grateful to have you in our lives and can't wait to share our special day with you. Your presence is the greatest gift of all.
+Thank you to all our friends, family, and loved ones for your unwavering companionship and support.
+We are incredibly grateful to have you in our lives and eagerly await sharing our special day with you.
+Your presence to witness and celebrate with us means the world.
 
 With love,
 Kha & Linh

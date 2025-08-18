@@ -36,7 +36,9 @@ footer:
 
 ## Lời Cảm Ơn
 
-Cảm ơn bạn đã ghé thăm website đám cưới của chúng tôi. Chúng tôi rất biết ơn khi có bạn trong cuộc đời và rất mong được chia sẻ ngày đặc biệt của chúng tôi với bạn. Sự hiện diện của bạn là món quà lớn nhất.
+Xin cảm ơn tất cả bạn bè, gia đình và người thân đã luôn đồng hành và ủng hộ cho Kha và Linh.
+Chúng tôi rất biết ơn khi có bạn trong cuộc đời và rất mong được chia sẻ ngày đặc biệt của chúng tôi với bạn.
+Hy vọng mọi người sẽ có mặt ngày quan trọng này để chứng kiến và chung vui cùng cô dâu và chú rể.
 
 Với tình yêu,
 Kha & Linh
