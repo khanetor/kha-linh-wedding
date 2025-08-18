@@ -2,30 +2,41 @@
 layout: home
 
 hero:
-  name: Save the date
-  text: Hoàng Kha & Khánh Linh
-  tagline:
+  name: "Kha & Linh"
+  text: "Chào mừng đến với website đám cưới của chúng tôi!"
+  tagline: Chúng tôi rất vui mừng được kỷ niệm ngày đặc biệt này cùng bạn.
   image:
     src: /images/hero.jpg
-    alt: wedding
+    alt: Kha và Linh
   actions:
-    - text: Xác nhận tham dự
+    - theme: brand
+      text: Xác nhận tham dự
       link: /vi/rsvp
-      theme: brand
-    - text: Xem ảnh
+    - theme: alt
+      text: Xem album ảnh
       link: /vi/gallery
-      theme: alt
-    - text: Xem câu chuyện
-      link: /vi/story
-      theme: alt
 
 features:
   - icon: 🎉
-    title: Tiệc mừng
-    details: Thứ hai, 29/12/2025
-    link: /vi/events#tiec-mung-tai-ha-noi
-  - icon: 💒
-    title: Tiệc cưới
-    details: Chủ Nhật, 11/1/2026
-    link: /vi/events#tiec-cuoi-tai-thanh-pho-ho-chi-minh
+    title: Ngày Trọng Đại
+    details: Tìm tất cả thông tin chi tiết về lễ cưới và tiệc chiêu đãi.
+    link: /vi/events
+  - icon: 💖
+    title: Câu Chuyện Của Chúng Tôi
+    details: Đọc về cách chúng tôi gặp nhau và hành trình đến lễ đường.
+    link: /vi/story
+  - icon: ✈️
+    title: Di Chuyển & Chỗ Ở
+    details: Nhận thông tin về việc di chuyển và chỗ ở cho những vị khách ở xa của chúng tôi.
+    link: /vi/events#di-chuyen-va-cho-o
+
+footer:
+  hello
 ---
+
+## Lời Cảm Ơn
+
+Cảm ơn bạn đã ghé thăm website đám cưới của chúng tôi. Chúng tôi rất biết ơn khi có bạn trong cuộc đời và rất mong được chia sẻ ngày đặc biệt của chúng tôi với bạn. Sự hiện diện của bạn là món quà lớn nhất.
+
+Với tình yêu,
+Kha & Linh

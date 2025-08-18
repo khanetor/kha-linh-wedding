@@ -2,30 +2,38 @@
 layout: home
 
 hero:
-  name: Save the date
-  text: Kha & Linh
-  tagline:
+  name: "Kha & Linh"
+  text: "Welcome to our wedding website!"
+  tagline: We're so excited to celebrate our special day with you.
   image:
     src: /images/hero.jpg
-    alt: wedding
+    alt: Kha and Linh
   actions:
-    - text: RSVP
+    - theme: brand
+      text: RSVP
       link: /rsvp
-      theme: brand
-    - text: Gallery
+    - theme: alt
+      text: View Gallery
       link: /gallery
-      theme: alt
-    - text: Our story
-      link: /story
-      theme: alt
 
 features:
   - icon: 🎉
-    title: Celebration party
-    details: Thứ hai, 29/12/2025
-    link: /events#celebration-party-in-hanoi
-  - icon: 💒
-    title: Wedding party
-    details: Chủ Nhật, 11/1/2026
-    link: /events#wedding-party-in-ho-chi-minh-city
+    title: The Big Day
+    details: Find all the details about the wedding ceremony and reception.
+    link: /events
+  - icon: 💖
+    title: Our Story
+    details: Read about how we met and our journey to the altar.
+    link: /story
+  - icon: ✈️
+    title: Travel & Accommodations
+    details: Get information about travel and accommodations for our out-of-town guests.
+    link: /events#travel-and-accommodations
 ---
+
+## Thank You
+
+Thank you for visiting our wedding website. We are so grateful to have you in our lives and can't wait to share our special day with you. Your presence is the greatest gift of all.
+
+With love,
+Kha & Linh
