@@ -5,9 +5,6 @@ hero:
   name: "Kha & Linh"
   text: "Welcome to our wedding website!"
   tagline: We're so excited to celebrate our special day with you.
-  image:
-    src: /images/hero.jpg
-    alt: Kha and Linh
   actions:
     - theme: brand
       text: RSVP

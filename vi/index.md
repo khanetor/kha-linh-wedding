@@ -5,9 +5,6 @@ hero:
   name: "Kha & Linh"
   text: "Chào mừng đến với website đám cưới của chúng tôi!"
   tagline: Chúng tôi rất vui mừng được kỷ niệm ngày đặc biệt này cùng bạn.
-  image:
-    src: /images/hero.jpg
-    alt: Kha và Linh
   actions:
     - theme: brand
       text: Xác nhận tham dự
