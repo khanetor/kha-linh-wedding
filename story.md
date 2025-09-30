@@ -1,39 +1,48 @@
 ---
-title: Our story
+title: Our Story
 ---
 
 # Our Story
 
-A timeline of our relationship, from the day we met to the day we say "I do".
+From the first text message to the day Linh said "I do".
+
+## The Wish
+
+**Date:** July 22, 2023
+
+*One evening, Kha looked up at the moon and made a wish: "I feel so bored living alone on this earth, I wish I could find a like-minded life partner". The Moon Lady replied: "So be it."*
+
+![The Wish](/images/the-wish.jpeg)
 
 ## The Day We Met
 
-**Date:** January 1, 2020
+**Date:** September 2, 2023
 
-![Our First Picture](https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
+*Our first date was at Que Em restaurant, Kamppi*
 
-*Replace this with the story of how you met.*
+![The first time we met](https://files.venuu.se/attachments/000/265/972/26b798e0af7d85c06d6f8acfd20cdc8e6d01dd9d.jpg)
 
-## Our First "I Love You"
+## Time Together
 
-**Date:** June 15, 2020
+**Date:** throughout 2024 to early 2025
 
-![A romantic moment](https://images.unsplash.com/photo-1515871204537-49a5cb662c6a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
+![Romantic moment 1](/images/badminton.jpeg)
+![Romantic moment 2](/images/linh-gold-medal.jpeg)
 
-*Replace this with the story of your first "I love you".*
+*From then on, we started doing everything together.*
 
 ## The Proposal
 
-**Date:** December 25, 2023
+**Date:** February 9, 2025
 
-![The proposal](https://images.unsplash.com/photo-1529233269335-fe31a8a95984?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
+*Kha proposed and Linh said "Ok"*
 
-*Replace this with the story of the proposal.*
+![The Proposal](/images/wedding-ring.jpg)
 
 ## We're Getting Married!
 
-**Date:** August 18, 2025
+**Date:** January 1, 2026
 
-![We're getting married](https://images.unsplash.com/photo-1568418235008-36a94a055a94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
+![We're getting married](/images/lake-como.jpg)
 
-*Replace this with your thoughts and feelings about your upcoming wedding.*
+*We are getting married.*

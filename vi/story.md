@@ -4,36 +4,45 @@ title: Câu chuyện của chúng tôi
 
 # Câu chuyện của chúng tôi
 
-Dòng thời gian về mối quan hệ của chúng tôi, từ ngày gặp nhau cho đến ngày chúng tôi nói "Em đồng ý".
+Từ lần đầu nhắn tin cho đến ngày Linh nói "Em đồng ý".
+
+## Điều ước
+
+**Ngày:** 22 tháng 7 năm 2023
+
+*Một buổi tối nọ, Kha nhìn lên mặt trăng và ước: "Ta cảm thấy sống mãi một mình ở trần gian này thật chán quá, ước gì ta tìm được một người bạn đời tâm đầu ý hợp". Chị Hằng liền trả lời: "Được thôi".*
+
+![Điều ước](/images/the-wish.jpeg)
 
 ## Ngày chúng tôi gặp nhau
 
-**Ngày:** 1 tháng 1 năm 2020
+**Ngày:** 2 tháng 9 năm 2023
 
-![Bức ảnh đầu tiên của chúng tôi](https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
+*Buổi hẹn hò đầu tiên của bọn mình ở nhà hàng Quê Em, Kamppi*
 
-*Thay thế bằng câu chuyện về cách bạn gặp nhau.*
+![Lần đầu gặp nhau](https://files.venuu.se/attachments/000/265/972/26b798e0af7d85c06d6f8acfd20cdc8e6d01dd9d.jpg)
 
-## Lần đầu tiên nói "Anh yêu em"
+## Thời gian bên nhau
 
-**Ngày:** 15 tháng 6 năm 2020
+**Ngày:** suốt năm 2024 đến đầu 2025
 
-![Khoảnh khắc lãng mạn](https://images.unsplash.com/photo-1515871204537-49a5cb662c6a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
+![Khoảnh khắc lãng mạn 1](/images/badminton.jpeg)
+![Khoảnh khắc lãng mạn 2](/images/linh-gold-medal.jpeg)
 
-*Thay thế bằng câu chuyện về lần đầu tiên bạn nói "Anh yêu em".*
+*Từ đó, bọn mình bắt đầu làm mọi thứ cùng nhau.*
 
 ## Lời cầu hôn
 
-**Ngày:** 25 tháng 12 năm 2023
+**Ngày:** 9 tháng 2 năm 2025
 
-![Lời cầu hôn](https://images.unsplash.com/photo-1529233269335-fe31a8a95984?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
+*Kha ngỏ lời và Linh nói "Ok"*
 
-*Thay thế bằng câu chuyện về lời cầu hôn.*
+![Lời cầu hôn](/images/wedding-ring.jpg)
 
 ## Chúng tôi sắp kết hôn!
 
-**Ngày:** 18 tháng 8 năm 2025
+**Ngày:** 1 tháng 1 năm 2026
 
-![Chúng tôi sắp kết hôn](https://images.unsplash.com/photo-1568418235008-36a94a055a94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
+![Chúng tôi sắp kết hôn](/images/lake-como.jpg)
 
-*Thay thế bằng những suy nghĩ và cảm xúc của bạn về đám cưới sắp tới.*
+*Chúng tôi sắp kết hôn.*
