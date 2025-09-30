@@ -26,10 +26,14 @@ Từ lần đầu nhắn tin cho đến ngày Linh nói "Em đồng ý".
 
 **Ngày:** suốt năm 2024 đến đầu 2025
 
-![Khoảnh khắc lãng mạn 1](/images/badminton.jpeg)
-![Khoảnh khắc lãng mạn 2](/images/linh-gold-medal.jpeg)
-
 *Từ đó, bọn mình bắt đầu làm mọi thứ cùng nhau.*
+
+![Khoảnh khắc lãng mạn 1](/images/sup.jpg)
+![Khoảnh khắc lãng mạn 2](/images/cruise.jpeg)
+![Khoảnh khắc lãng mạn 3](/images/badminton.jpeg)
+![Khoảnh khắc lãng mạn 4](/images/ski.jpg)
+![Khoảnh khắc lãng mạn 5](/images/ski-2.jpeg)
+![Khoảnh khắc lãng mạn 6](/images/aurora.jpeg)
 
 ## Lời cầu hôn
 
@@ -37,12 +41,13 @@ Từ lần đầu nhắn tin cho đến ngày Linh nói "Em đồng ý".
 
 *Kha ngỏ lời và Linh nói "Ok"*
 
-![Lời cầu hôn](/images/wedding-ring.jpg)
+![Lời cầu hôn 1](/images/propose.jpg)
+![Lời cầu hôn 2](/images/wedding-ring.jpg)
 
 ## Chúng tôi sắp kết hôn!
 
 **Ngày:** 1 tháng 1 năm 2026
 
-![Chúng tôi sắp kết hôn](/images/lake-como.jpg)
-
 *Chúng tôi sắp kết hôn.*
+
+![Chúng tôi sắp kết hôn](/images/lake-como.jpg)
