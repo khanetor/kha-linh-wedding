@@ -2,8 +2,10 @@
 layout: home
 
 hero:
-  name: "Kha & Linh"
-  text: "Welcome to our wedding website!"
+  name: Kha & Linh
+  text: |
+    Hanoi: 29/12/2025
+    Ho Chi Minh: 11/01/2026
   tagline: We're so excited to celebrate our special day with you.
   actions:
     - theme: brand
@@ -18,7 +20,7 @@ hero:
 
 features:
   - icon: 🎉
-    title: The Big Day
+    title: The Big Days
     details: Find all the details about the wedding ceremony and reception.
     link: /events
   - icon: 💖
@@ -38,4 +40,5 @@ We are incredibly grateful to have you in our lives and eagerly await sharing ou
 Your presence to witness and celebrate with us means the world.
 
 With love,
+
 Kha & Linh

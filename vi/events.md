@@ -26,14 +26,12 @@ Hãy cùng chúng tôi tham gia một buổi tiệc mừng vui vẻ tại thành
 Lễ cưới chính của chúng tôi sẽ diễn ra tại Thành phố Hồ Chí Minh sôi động. Chúng tôi mong chờ được chia sẻ khoảnh khắc trọng đại này với tất cả các bạn.
 
 - ⏰ **Ngày:** Chủ Nhật, ngày 11 tháng 1 năm 2026
-- 📍 **Địa điểm:** Sẽ thông báo sau
+- 📍 **Địa điểm:** Trung tâm tiệc cưới Pavillon Tân Sơn Nhất, 202 Đ. Hoàng Văn Thụ, Phường 9, Phú Nhuận, Hồ Chí Minh
 
 <Countdown :from="today" :to="eventHCM" locale="vi" />
 
-![tan son nhat](../images/tan-son-nhat.jpg){.responsive-image}
-
 <div class="responsive-iframe-container">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.141126724733!2d106.66831587636963!3d10.800501358746464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752928b7208c15%3A0xc7aa798b94e48f8d!2sTan%20Son%20Nhat%20Hotel%20Saigon!5e0!3m2!1sen!2sfi!4v1747257509733!5m2!1sen!2sfi" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.134738705387!2d106.66826771125325!3d10.800990889304837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752928b68fbc3f%3A0xc58bea5686708420!2zVHJ1bmcgVMOibSBI4buZaSBOZ2jhu4sgJiBUaeG7h2MgQ8aw4bubaSBQYXZpbGxvbiBUw6JuIFPGoW4gTmjhuqV0!5e0!3m2!1sfi!2sfi!4v1759253938944!5m2!1sfi!2sfi" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ## Di chuyển và Chỗ ở
