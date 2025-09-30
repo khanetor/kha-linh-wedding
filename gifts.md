@@ -9,24 +9,26 @@ Your presence at our wedding is the greatest gift of all. However, if you wish t
 
 ## MobilePay (Finland)
 
-**Number:** [Your MobilePay Number]
-**Recipient:** [Your Name]
-
-## Momo (Vietnam)
-
-**Number:** [Your Momo Number]
-**Recipient:** [Your Name]
+- **Number:** 0449884108
+- **Recipient:** Kha Nguyen
 
 ## Bank Transfer (Finland)
 
-**Bank Name:** [Your Finnish Bank Name]
-**Account Name:** [Your Account Name]
-**IBAN:** [Your IBAN]
-**BIC/SWIFT:** [Your BIC/SWIFT]
+- **Bank Name:** Revolut Bank UAB
+- **Account Name:** Le Hoang Kha Nguyen
+- **IBAN:** LT04 3250 0061 6339 9979
+- **BIC/SWIFT:** REVOLT21
+- **Currency:** EURO
+
+
+## Momo (Vietnam)
+![momo](/images/momo.jpeg)
 
 ## Bank Transfer (Vietnam)
 
-**Bank Name:** [Your Vietnamese Bank Name]
-**Account Name:** [Your Account Name]
-**Account Number:** [Your Account Number]
-**Bank Branch:** [Your Bank Branch (Optional)]
+**Bank Name:** MBBank
+**Account Name:** Nguyen Le Hoang Kha
+**Account Number:** 1804198879
+
+## Web (International)
+[Revolut](https://revolut.me/khanguyen)
