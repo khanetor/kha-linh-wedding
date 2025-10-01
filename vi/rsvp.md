@@ -15,4 +15,4 @@ Chúng tôi vui lòng yêu cầu bạn gửi phản hồi trước **ngày 29 th
 Biểu mẫu Google này yêu cầu cookie để hoạt động chính xác. Vui lòng chấp thuận mọi yêu cầu cookie để đảm bảo bạn có thể gửi phản hồi của mình. Quyền riêng tư của bạn rất quan trọng đối với chúng tôi và đây là biện pháp bảo mật tiêu chuẩn cho các biểu mẫu nhúng.
 :::
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc_ClCpEs5ybKZjQmJ8qLgbppD_9QCslDQXcabpEeNPAqxuAA/viewform?embedded=true" width="100%" height="1381" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc_ClCpEs5ybKZjQmJ8qLgbppD_9QCslDQXcabpEeNPAqxuAA/viewform?embedded=true" width="100%" height="1505" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
