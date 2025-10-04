@@ -41,6 +41,7 @@ h2 {
     background-repeat: no-repeat;
     background-attachment: fixed;
     padding-bottom: 1rem;
+    margin-bottom: 0rem !important;
 }
 
 .VPHomeFeatures div.item {
@@ -52,7 +53,7 @@ h2 {
 }
 
 .VPHome .main .heading .name.clip {
-    font-size: 7rem;
+    font-size: 4rem;
 }
 
 .VPHome .main .heading .text {

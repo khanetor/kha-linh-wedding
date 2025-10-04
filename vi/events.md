@@ -17,9 +17,13 @@ Chúng tôi rất vui mừng được mời bạn đến chung vui trong ngày c
 Hãy cùng chúng tôi tham gia một buổi tiệc mừng vui vẻ tại thành phố Hà Nội xinh đẹp. Chúng tôi rất mong được chung vui cùng gia đình và bạn bè ở miền Bắc.
 
 - ⏰ **Ngày:** Thứ Hai, ngày 29 tháng 12 năm 2025
-- 📍 **Địa điểm:** Sẽ thông báo sau
+- 📍 **Địa điểm:** Trống Đồng Palace, 40 Hàng Cót, Hàng Mã, Hoàn Kiếm, Hà Nội
 
 <Countdown :from="today" :to="eventHanoi" locale="vi" />
+
+<div class="responsive-iframe-container">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.8738140325736!2d105.84422976119241!3d21.037734437388757!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135abb95cf9d3d1%3A0xf3f702ec451c57e2!2zVHLhu5FuZyDEkOG7k25nIFBhbGFjZQ!5e0!3m2!1sfi!2sfi!4v1759608602595!5m2!1sfi!2sfi" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 ## Tiệc cưới tại Thành phố Hồ Chí Minh
 
@@ -31,7 +35,7 @@ Lễ cưới chính của chúng tôi sẽ diễn ra tại Thành phố Hồ Ch�
 <Countdown :from="today" :to="eventHCM" locale="vi" />
 
 <div class="responsive-iframe-container">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.134738705387!2d106.66826771125325!3d10.800990889304837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752928b68fbc3f%3A0xc58bea5686708420!2zVHJ1bmcgVMOibSBI4buZaSBOZ2jhu4sgJiBUaeG7h2MgQ8aw4bubaSBQYXZpbGxvbiBUw6JuIFPGoW4gTmjhuqV0!5e0!3m2!1sfi!2sfi!4v1759253938944!5m2!1sfi!2sfi" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.134738705387!2d106.66826771125325!3d10.800990889304837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752928b68fbc3f%3A0xc58bea5686708420!2zVHJ1bmcgVMOibSBI4buZaSBOZ2jhu4sgJiBUaeG7h2MgQ8aw4bubaSBQYXZpbGxvbiBUw6JuIFPGoW4gTmjhuqV0!5e0!3m2!1sfi!2sfi!4v1759253938944!5m2!1sfi!2sfi" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ## Di chuyển và Chỗ ở
