@@ -4,8 +4,8 @@ layout: home
 hero:
   name: Kha & Linh
   text: |
-    Hà Nội: 29/12/2025
-    Hồ Chí Minh: 11/01/2026
+    29/12/2025  Hà Nội
+    11/01/2026  Hồ Chí Minh
   tagline: Chúng tôi rất vui mừng được kỷ niệm ngày đặc biệt này cùng bạn.
   actions:
     - theme: brand

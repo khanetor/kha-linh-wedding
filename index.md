@@ -4,8 +4,8 @@ layout: home
 hero:
   name: Kha & Linh
   text: |
-    Hanoi: 29/12/2025
-    Ho Chi Minh: 11/01/2026
+    29/12/2025  Hanoi
+    11/01/2026  Ho Chi Minh
   tagline: We're so excited to celebrate our special day with you.
   actions:
     - theme: brand

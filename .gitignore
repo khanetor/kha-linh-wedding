@@ -2,3 +2,4 @@
 /.vitepress/cache
 /.vitepress/dist
 .vscode
+.DS_Store

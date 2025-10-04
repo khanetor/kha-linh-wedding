@@ -4,10 +4,10 @@
     /* Set default font for body */
     font-family: "Open Sans", sans-serif;
     --bg-overlay: linear-gradient(
-        rgba(197, 197, 197, 0.7),
+        rgba(197, 197, 197, 0.4),
         rgba(235, 235, 235, 0.7)
     );
-    --bg-image: url("/images/hero.jpg");
+    --bg-image: url("/images/hero.jpeg");
 }
 
 .dark {
@@ -41,4 +41,32 @@ h2 {
     background-repeat: no-repeat;
     background-attachment: fixed;
     padding-bottom: 1rem;
+}
+
+.VPHomeFeatures div.item {
+    opacity: 0.6;
+}
+
+.VPHome .main .heading {
+    align-items: center;
+}
+
+.VPHome .main .heading .name.clip {
+    font-size: 7rem;
+}
+
+.VPHome .main .heading .text {
+    font-size: 2.5rem;
+    margin-top: 2.5rem;
+    line-height: 56px;
+}
+
+.VPHome .main .tagline {
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.VPHome .main .actions {
+    justify-content: center;
 }
