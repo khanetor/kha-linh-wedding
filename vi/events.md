@@ -4,19 +4,19 @@ title: Sự kiện cưới
 
 <script setup lang="ts">
 const today = new Date()
-const eventHanoi = new Date(2025, 11, 29)
-const eventHCM = new Date(2026, 0, 11)
+const eventHanoi = new Date("2025-12-29T11:00:00+07:00")
+const eventHCM = new Date("2026-01-11T11:00:00+07:00")
 </script>
 
-# Các sự kiện cưới của chúng tôi
+# Các sự kiện cưới
 
-Chúng tôi rất vui mừng được mời bạn đến chung vui trong ngày cưới của chúng tôi! Chúng tôi sẽ tổ chức hai sự kiện đặc biệt để chia sẻ niềm vui này với tất cả những người thân yêu.
+Sự hiện diện của các bạn là niềm vinh hạnh cho gia đình và vợ chồng mình.
 
-## Tiệc mừng tại Hà Nội
+## Tiệc báo hỉ tại Hà Nội
 
-Hãy cùng chúng tôi tham gia một buổi tiệc mừng vui vẻ tại thành phố Hà Nội xinh đẹp. Chúng tôi rất mong được chung vui cùng gia đình và bạn bè ở miền Bắc.
+Mời bạn đến tham dự bữa tiệc thân mật cùng gia đình chúng mình.
 
-- ⏰ **Ngày:** Thứ Hai, ngày 29 tháng 12 năm 2025
+- ⏰ **Ngày:** Thứ Hai, 11:00, ngày 29 tháng 12 năm 2025
 - 📍 **Địa điểm:** Trống Đồng Palace, 40 Hàng Cót, Hàng Mã, Hoàn Kiếm, Hà Nội
 
 <Countdown :from="today" :to="eventHanoi" locale="vi" />
@@ -25,11 +25,11 @@ Hãy cùng chúng tôi tham gia một buổi tiệc mừng vui vẻ tại thành
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.8738140325736!2d105.84422976119241!3d21.037734437388757!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135abb95cf9d3d1%3A0xf3f702ec451c57e2!2zVHLhu5FuZyDEkOG7k25nIFBhbGFjZQ!5e0!3m2!1sfi!2sfi!4v1759608602595!5m2!1sfi!2sfi" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-## Tiệc cưới tại Thành phố Hồ Chí Minh
+## Lễ thành hôn tại Thành phố Hồ Chí Minh
 
-Lễ cưới chính của chúng tôi sẽ diễn ra tại Thành phố Hồ Chí Minh sôi động. Chúng tôi mong chờ được chia sẻ khoảnh khắc trọng đại này với tất cả các bạn.
+Lễ cưới chính của chúng mình sẽ diễn ra tại Thành phố Hồ Chí Minh sôi động. Chúng mình mong chờ được chia sẻ khoảnh khắc trọng đại này với tất cả các bạn.
 
-- ⏰ **Ngày:** Chủ Nhật, ngày 11 tháng 1 năm 2026
+- ⏰ **Ngày:** Chủ Nhật, 11:00, ngày 11 tháng 1 năm 2026
 - 📍 **Địa điểm:** Trung tâm tiệc cưới Pavillon Tân Sơn Nhất, 202 Đ. Hoàng Văn Thụ, Phường 9, Phú Nhuận, Hồ Chí Minh
 
 <Countdown :from="today" :to="eventHCM" locale="vi" />

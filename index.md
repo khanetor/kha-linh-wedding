@@ -25,7 +25,7 @@ features:
     details: Read about how we met and our journey to the altar.
     link: /story
   - icon: 📷
-    title: Gallery
+    title: Wedding Photo Album
     details: View our wedding photos.
     link: /gallery
 ---

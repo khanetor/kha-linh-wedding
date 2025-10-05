@@ -2,7 +2,7 @@
 title: Câu chuyện của chúng tôi
 ---
 
-# Câu chuyện của chúng tôi
+# Câu chuyện của chúng mình
 
 Từ lần đầu nhắn tin cho đến ngày Linh nói "Em đồng ý".
 
@@ -12,9 +12,11 @@ Từ lần đầu nhắn tin cho đến ngày Linh nói "Em đồng ý".
 
 *Một buổi tối nọ, Kha nhìn lên mặt trăng và ước: "Ta cảm thấy sống mãi một mình ở trần gian này thật chán quá, ước gì ta tìm được một người bạn đời tâm đầu ý hợp". Chị Hằng liền trả lời: "Được thôi".*
 
+Cảm ơn chị Hằng đã se duyên cho chúng em.
+
 ![Điều ước](/images/the-wish.jpeg)
 
-## Ngày chúng tôi gặp nhau
+## Ngày chúng mình gặp nhau
 
 **Ngày:** 2 tháng 9 năm 2023
 
@@ -24,7 +26,7 @@ Từ lần đầu nhắn tin cho đến ngày Linh nói "Em đồng ý".
 
 ## Thời gian bên nhau
 
-**Ngày:** suốt năm 2024 đến đầu 2025
+**Ngày:** 2024 và 2025
 
 *Từ đó, bọn mình bắt đầu làm mọi thứ cùng nhau.*
 
@@ -38,16 +40,14 @@ Từ lần đầu nhắn tin cho đến ngày Linh nói "Em đồng ý".
 
 **Ngày:** 9 tháng 2 năm 2025
 
-*Kha ngỏ lời và Linh nói "Ok"*
+*Kha ngỏ lời và Linh nói "OK"*
 
 ![Lời cầu hôn](/images/propose.jpg)
 ![Lời cầu hôn](/images/wedding-ring.jpg)
 ![Lời cầu hôn](/images/wedding-ring-2.jpg)
 
-## Chúng tôi sắp kết hôn!
+## Chúng mình sắp kết hôn!
 
-**Ngày:** 1 tháng 1 năm 2026
-
-*Chúng tôi sắp kết hôn.*
+**Ngày:** 11 tháng 1 năm 2026
 
 ![Chúng tôi sắp kết hôn](/images/lake-como.jpg)

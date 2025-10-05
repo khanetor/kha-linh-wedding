@@ -7,9 +7,7 @@ layout: doc
 
 We are so excited to celebrate our special day with you!
 
-Please let us know if you will be able to attend by filling out the Google Form below by **November 29th, 2025**. Your presence would mean the world to us.
-
-We kindly request that you submit your response by **November 29th, 2025** so we can finalize our arrangements.
+Please let us know if you will be able to attend by filling out the Google Form below by **November 29th, 2025**. This will help us welcome you thoughtfully and fully. Thank you!
 
 ::: tip Important Note
 This Google Form requires cookies to function correctly. Please approve any cookie requests to ensure you can submit your RSVP. Your privacy is important to us, and this is a standard security measure for embedded forms.

@@ -4,8 +4,8 @@ title: Wedding Events
 
 <script setup lang="ts">
 const today = new Date()
-const eventHanoi = new Date(2025, 11, 28)
-const eventHCM = new Date(2026, 0, 11)
+const eventHanoi = new Date("2025-12-29T11:00:00+07:00")
+const eventHCM = new Date("2026-01-11T11:00:00+07:00")
 </script>
 
 # Our Wedding Celebrations
@@ -16,7 +16,7 @@ We are thrilled to invite you to celebrate our marriage! We will be hosting two 
 
 Join us for a joyous celebration in the beautiful city of Hanoi. We can't wait to celebrate with our family and friends in the North.
 
-- ⏰ **Date:** Monday, December 29, 2025
+- ⏰ **Date:** Monday, 11:00, December 29, 2025
 - 📍 **Venue:** Trong Dong Palace, 40 Hang Cot, Hang Ma, Hoon Kiem, Ha Noi, Vietnam
 
 <Countdown :from="today" :to="eventHanoi" locale="en" />
@@ -29,8 +29,8 @@ Join us for a joyous celebration in the beautiful city of Hanoi. We can't wait t
 
 Our main wedding celebration will take place in the vibrant Ho Chi Minh City. We look forward to sharing this momentous occasion with all of you.
 
-- ⏰ **Date:** Sunday, January 11, 2026
-- 📍 **Venue:** Pavillon Tan Son Nhat, 202 Hoang Van Thu st., Ward 9, District Phu Nhuan, Ho Chi Minh, Vietnam
+- ⏰ **Date:** Sunday, 11:00, January 11, 2026
+- 📍 **Venue:** Pavillon Tan Son Nhat, 202 Hoang Van Thu st., Ward 9, Phu Nhuan District, Ho Chi Minh City, Vietnam
 
 <Countdown :from="today" :to="eventHCM" locale="en" />
 

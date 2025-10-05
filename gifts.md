@@ -3,14 +3,30 @@ title: Gifts
 layout: doc
 ---
 
-# Your Generosity
+# Wedding Gifts
 
-Your presence at our wedding is the greatest gift of all. However, if you wish to honor us with a gift, we have provided a few options below.
+Your presence at our wedding is the greatest gift for us. Linh and Kha would like to thank you for your love.
+
+## Bank Transfer (Vietnam)
+
+- **Bank Name:** MBBank
+- **Account Name:** Nguyen Le Hoang Kha
+- **Account Number:** 1804198879
+
+- **Bank Name:** MBBank
+- **Account Name:** Nguyen Khanh Linh
+- **Account Number:** 028111997
+
+## Momo (Vietnam)
+![momo](/images/momo.jpeg)
 
 ## MobilePay (Finland)
 
-- **Number:** 0449884108
 - **Recipient:** Kha Nguyen
+  - **Number:** 0449884108
+
+- **Recipient:** Khanh Linh Nguyen
+  - **Number:** 0452777977
 
 ## Bank Transfer (Finland)
 
@@ -19,16 +35,6 @@ Your presence at our wedding is the greatest gift of all. However, if you wish t
 - **IBAN:** LT04 3250 0061 6339 9979
 - **BIC/SWIFT:** REVOLT21
 - **Currency:** EURO
-
-
-## Momo (Vietnam)
-![momo](/images/momo.jpeg)
-
-## Bank Transfer (Vietnam)
-
-**Bank Name:** MBBank
-**Account Name:** Nguyen Le Hoang Kha
-**Account Number:** 1804198879
 
 ## Web (International)
 [Revolut](https://revolut.me/khanguyen)

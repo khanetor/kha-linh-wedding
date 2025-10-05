@@ -3,14 +3,30 @@ title: Quà mừng
 layout: doc
 ---
 
-# Lòng hảo tâm của bạn
+# Mừng cưới
 
-Sự hiện diện của bạn tại đám cưới của chúng tôi là món quà lớn nhất. Tuy nhiên, nếu bạn muốn tặng quà, chúng tôi có một vài lựa chọn dưới đây.
+Sự hiện diện của bạn tại đám cưới là món quà lớn nhất dành cho chúng mình. Linh và Kha xin cảm ơn tình cảm của tất cả mọi người.
+
+## Chuyển khoản ngân hàng (Việt Nam)
+
+- **Tên tài khoản:** Nguyen Le Hoang Kha
+  - **Tên ngân hàng:** MBBank
+  - **Số tài khoản:** 1804198879
+
+- **Tên tài khoản:** Nguyen Khanh Linh
+  - **Tên ngân hàng:** MBBank
+  - **Số tài khoản:** 028111997
+
+## Momo (Việt Nam)
+![momo](/images/momo.jpeg)
 
 ## MobilePay (Phần Lan)
 
-- **Số điện thoại:** 0449884108
 - **Người nhận:** Kha Nguyen
+  - **Số điện thoại:** 0449884108
+
+- **Người nhận:** Khanh Linh Nguyen
+  - **Số điện thoại:** 0452777977
 
 ## Chuyển khoản ngân hàng (Phần Lan)
 
@@ -19,16 +35,6 @@ Sự hiện diện của bạn tại đám cưới của chúng tôi là món qu
 - **IBAN:** LT04 3250 0061 6339 9979
 - **BIC/SWIFT:** REVOLT21
 - **Tiền tệ:** EURO
-
-
-## Momo (Việt Nam)
-![momo](/images/momo.jpeg)
-
-## Chuyển khoản ngân hàng (Việt Nam)
-
-**Tên ngân hàng:** MBBank
-**Tên tài khoản:** Nguyen Le Hoang Kha
-**Số tài khoản:** 1804198879
 
 ## Web (Quốc tế)
 [Revolut](https://revolut.me/khanguyen)
