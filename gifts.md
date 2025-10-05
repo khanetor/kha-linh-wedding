@@ -9,13 +9,13 @@ Your presence at our wedding is the greatest gift for us. Linh and Kha would lik
 
 ## Bank Transfer (Vietnam)
 
-- **Bank Name:** MBBank
 - **Account Name:** Nguyen Le Hoang Kha
-- **Account Number:** 1804198879
+  - **Bank Name:** MBBank
+  - **Account Number:** 1804198879
 
-- **Bank Name:** MBBank
 - **Account Name:** Nguyen Khanh Linh
-- **Account Number:** 028111997
+  - **Bank Name:** MBBank
+  - **Account Number:** 028111997
 
 ## Momo (Vietnam)
 ![momo](/images/momo.jpeg)
