@@ -71,3 +71,9 @@ h2 {
 .VPHome .main .actions {
     justify-content: center;
 }
+
+div._gallery p, div._vi_gallery p {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+}

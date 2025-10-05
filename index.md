@@ -12,9 +12,6 @@ hero:
       text: RSVP
       link: /rsvp
     - theme: alt
-      text: View Gallery
-      link: /gallery
-    - theme: alt
       text: Gifts
       link: /gifts
 
@@ -27,10 +24,10 @@ features:
     title: Our Story
     details: Read about how we met and our journey to the altar.
     link: /story
-  - icon: ✈️
-    title: Travel & Accommodations
-    details: Get information about travel and accommodations for our out-of-town guests.
-    link: /events#travel-and-accommodations
+  - icon: 📷
+    title: Gallery
+    details: View our wedding photos.
+    link: /gallery
 ---
 
 ## Thank You

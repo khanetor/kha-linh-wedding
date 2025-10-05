@@ -28,12 +28,11 @@ From the first text message to the day Linh said "I do".
 
 *From then on, we started doing everything together.*
 
-![Romantic moment 1](/images/sup.jpg)
-![Romantic moment 2](/images/cruise.jpeg)
-![Romantic moment 3](/images/badminton.jpeg)
-![Romantic moment 4](/images/ski.jpg)
-![Romantic moment 5](/images/ski-2.jpeg)
-![Romantic moment 6](/images/aurora.jpeg)
+![Romantic moment](/images/sup.jpg)
+![Romantic moment](/images/cruise.jpeg)
+![Romantic moment](/images/badminton.jpg)
+![Romantic moment](/images/ski-2.jpeg)
+![Romantic moment](/images/aurora.jpeg)
 
 
 ## The Proposal
@@ -42,8 +41,9 @@ From the first text message to the day Linh said "I do".
 
 *Kha proposed and Linh said "Ok"*
 
-![The Proposal 1](/images/propose.jpg)
-![The Proposal 2](/images/wedding-ring.jpg)
+![The Proposal](/images/propose.jpg)
+![The Proposal](/images/wedding-ring.jpg)
+![The Proposal](/images/wedding-ring-2.jpg)
 
 ## We're Getting Married!
 

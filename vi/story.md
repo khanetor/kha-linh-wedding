@@ -28,12 +28,11 @@ Từ lần đầu nhắn tin cho đến ngày Linh nói "Em đồng ý".
 
 *Từ đó, bọn mình bắt đầu làm mọi thứ cùng nhau.*
 
-![Khoảnh khắc lãng mạn 1](/images/sup.jpg)
-![Khoảnh khắc lãng mạn 2](/images/cruise.jpeg)
-![Khoảnh khắc lãng mạn 3](/images/badminton.jpeg)
-![Khoảnh khắc lãng mạn 4](/images/ski.jpg)
-![Khoảnh khắc lãng mạn 5](/images/ski-2.jpeg)
-![Khoảnh khắc lãng mạn 6](/images/aurora.jpeg)
+![Khoảnh khắc lãng mạn](/images/sup.jpg)
+![Khoảnh khắc lãng mạn](/images/cruise.jpeg)
+![Khoảnh khắc lãng mạn](/images/badminton.jpg)
+![Khoảnh khắc lãng mạn](/images/ski-2.jpeg)
+![Khoảnh khắc lãng mạn](/images/aurora.jpeg)
 
 ## Lời cầu hôn
 
@@ -41,8 +40,9 @@ Từ lần đầu nhắn tin cho đến ngày Linh nói "Em đồng ý".
 
 *Kha ngỏ lời và Linh nói "Ok"*
 
-![Lời cầu hôn 1](/images/propose.jpg)
-![Lời cầu hôn 2](/images/wedding-ring.jpg)
+![Lời cầu hôn](/images/propose.jpg)
+![Lời cầu hôn](/images/wedding-ring.jpg)
+![Lời cầu hôn](/images/wedding-ring-2.jpg)
 
 ## Chúng tôi sắp kết hôn!
 

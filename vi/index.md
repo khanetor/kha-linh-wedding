@@ -12,9 +12,6 @@ hero:
       text: Xác nhận tham dự
       link: /vi/rsvp
     - theme: alt
-      text: Xem album ảnh
-      link: /vi/gallery
-    - theme: alt
       text: Quà mừng
       link: /vi/gifts
 
@@ -27,10 +24,10 @@ features:
     title: Câu Chuyện Của Chúng Tôi
     details: Đọc về cách chúng tôi gặp nhau và hành trình đến lễ đường.
     link: /vi/story
-  - icon: ✈️
-    title: Di Chuyển & Chỗ Ở
-    details: Nhận thông tin về việc di chuyển và chỗ ở cho những vị khách ở xa của chúng tôi.
-    link: /vi/events#di-chuyen-va-cho-o
+  - icon: 📷
+    title: Xem album ảnh
+    details: Xem album ảnh cưới.
+    link: /vi/gallery
 
 footer:
   hello

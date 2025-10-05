@@ -38,25 +38,6 @@ Lễ cưới chính của chúng tôi sẽ diễn ra tại Thành phố Hồ Ch�
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.134738705387!2d106.66826771125325!3d10.800990889304837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752928b68fbc3f%3A0xc58bea5686708420!2zVHJ1bmcgVMOibSBI4buZaSBOZ2jhu4sgJiBUaeG7h2MgQ8aw4bubaSBQYXZpbGxvbiBUw6JuIFPGoW4gTmjhuqV0!5e0!3m2!1sfi!2sfi!4v1759253938944!5m2!1sfi!2sfi" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-## Di chuyển và Chỗ ở
-
-Đối với những vị khách quý của chúng tôi đến từ xa, chúng tôi đã tổng hợp một số thông tin hữu ích để chuyến đi và kỳ nghỉ của bạn được thoải mái nhất có thể.
-
-### Chuyến bay
-
-*   **Hà Nội:** Sân bay Quốc tế Nội Bài (HAN)
-*   **Thành phố Hồ Chí Minh:** Sân bay Quốc tế Tân Sơn Nhất (SGN)
-
-Chúng tôi khuyên bạn nên đặt vé máy bay trước để có giá tốt nhất và chỗ trống.
-
-### Khách sạn
-
-Chúng tôi sẽ sớm cung cấp các đề xuất khách sạn gần địa điểm tổ chức sự kiện của chúng tôi ở cả Hà Nội và Thành phố Hồ Chí Minh. Vui lòng kiểm tra lại để cập nhật thông tin.
-
-### Phương tiện di chuyển
-
-Thông tin về các lựa chọn phương tiện di chuyển tại địa phương, bao gồm taxi, dịch vụ gọi xe như Grab và Xanh, và phương tiện công cộng, sẽ được cung cấp gần ngày diễn ra sự kiện. Đối với những người không có phương tiện cá nhân, Grab và Xanh sẽ là những phương tiện di chuyển chính được khuyến nghị.
-
 <style>
 .responsive-image {
     max-width: 100%;
