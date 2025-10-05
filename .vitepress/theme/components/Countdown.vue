@@ -35,9 +35,11 @@ onUnmounted(function () {
 <template>
   <div class="container">
     <div class="time-unit">
-      <div class="value" :key="days">
-        {{ days }}
-      </div>
+      <Transition name="slide-up" mode="out-in">
+        <div class="value" :key="days">
+          {{ days }}
+        </div>
+      </Transition>
       <div v-if="locale === 'vi'" class="unit">
         ngày
       </div>
@@ -46,9 +48,11 @@ onUnmounted(function () {
       </div>
     </div>
     <div class="time-unit">
-      <div class="value" :key="hours">
-        {{ hours }}
-      </div>
+      <Transition name="slide-up" mode="out-in">
+        <div class="value" :key="hours">
+          {{ hours }}
+        </div>
+      </Transition>
       <div v-if="locale === 'vi'" class="unit">
         giờ
       </div>
@@ -57,9 +61,11 @@ onUnmounted(function () {
       </div>
     </div>
     <div class="time-unit">
-      <div class="value" :key="minutes">
-        {{ minutes }}
-      </div>
+      <Transition name="slide-up" mode="out-in">
+        <div class="value" :key="minutes">
+          {{ minutes }}
+        </div>
+      </Transition>
       <div v-if="locale === 'vi'" class="unit">
         phút
       </div>
@@ -68,9 +74,11 @@ onUnmounted(function () {
       </div>
     </div>
     <div class="time-unit">
-      <div class="value" :key="seconds">
-        {{ seconds }}
-      </div>
+      <Transition name="slide-up" mode="out-in">
+        <div class="value" :key="seconds">
+          {{ seconds }}
+        </div>
+      </Transition>
       <div v-if="locale === 'vi'" class="unit">
         giây
       </div>
@@ -92,7 +100,7 @@ onUnmounted(function () {
   flex-wrap: wrap; /* Allow items to wrap to the next line */
 }
 
-.container>.time-unit {
+.container > .time-unit {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -102,32 +110,30 @@ onUnmounted(function () {
   flex-basis: 0; /* Allow items to shrink */
 }
 
-.container>.time-unit>.value {
+.container > .time-unit .value {
   font-weight: bold;
   font-size: 2rem; /* Adjusted font size */
-  animation: slide-up-animation 0.5s ease-out; /* Apply slide-up animation */
 }
 
-@keyframes slide-up-animation {
-  0% {
-    transform: translateY(0);
-    opacity: 1;
-  }
-  50% {
-    transform: translateY(-100%); /* Slide up */
-    opacity: 0; /* Fade out */
-  }
-  51% {
-    transform: translateY(100%); /* Instantly move to bottom */
-    opacity: 0;
-  }
-  100% {
-    transform: translateY(0); /* Slide back to original position */
-    opacity: 1;
-  }
+.slide-up-leave-active {
+  transition: all 0.3s ease-in;
 }
 
-.container>.time-unit>.unit {
+.slide-up-leave-to {
+  transform: translateY(-100%);
+  opacity: 0;
+}
+
+.slide-up-enter-active {
+  transition: all 0.3s ease-out;
+}
+
+.slide-up-enter-from {
+  transform: translateY(100%);
+  opacity: 0;
+}
+
+.container > .time-unit > .unit {
   text-transform: capitalize;
   font-size: 1rem; /* Adjusted font size for unit */
 }
@@ -138,7 +144,7 @@ onUnmounted(function () {
     gap: 1rem; /* Reduce gap on smaller screens */
   }
 
-  .container>.time-unit {
+  .container > .time-unit {
     min-width: 2.5rem; /* Further reduce min-width */
   }
 }
