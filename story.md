@@ -10,9 +10,9 @@ From the first text message to the day Linh said "I do".
 
 **Date:** July 22, 2023
 
-*One evening, Kha looked up at the moon and made a wish: "I feel so bored living alone on this earth, I wish I could find a like-minded life partner". The Moon Lady replied: "So be it."
+*One evening, Kha looked up at the moon and made a wish: "I feel so bored living alone on this earth, I wish I could find a like-minded life partner". The Moon Lady replied: "So be it."*
 
-Thank you, chị Hằng (Moon Lady), for bringing us together.*
+Thank you, chị Hằng (Moon Lady), for bringing us together.
 
 ![The Wish](/images/the-wish.jpeg)
 
@@ -26,7 +26,7 @@ Thank you, chị Hằng (Moon Lady), for bringing us together.*
 
 ## Time Together
 
-**Date:** throughout 2024 to early 2025
+**Date:** 2024 and 2025
 
 *From then on, we started doing everything together.*
 
@@ -41,7 +41,7 @@ Thank you, chị Hằng (Moon Lady), for bringing us together.*
 
 **Date:** February 9, 2025
 
-*Kha proposed and Linh said "Ok"*
+*Kha proposed and Linh said "OK"*
 
 ![The Proposal](/images/propose.jpg)
 ![The Proposal](/images/wedding-ring.jpg)
@@ -50,7 +50,5 @@ Thank you, chị Hằng (Moon Lady), for bringing us together.*
 ## We're Getting Married!
 
 **Date:** January 11, 2026
-
-*We are getting married.*
 
 ![We're getting married](/images/lake-como.jpg)
