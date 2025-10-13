@@ -17,7 +17,7 @@ We are thrilled to invite you to celebrate our marriage! We will be hosting two 
 Join us for a joyous celebration in the beautiful city of Hanoi. We can't wait to celebrate with our family and friends in the North.
 
 - ⏰ **Date:** Monday, 11:00, December 29, 2025
-- 📍 **Venue:** Trong Dong Palace, 40 Hang Cot, Hang Ma, Hoon Kiem, Ha Noi, Vietnam
+- 📍 **Venue:** Trong Dong Palace, 40 Hang Cot, Hoan Kiem, Ha Noi, Vietnam
 
 <Countdown :from="today" :to="eventHanoi" locale="en" />
 

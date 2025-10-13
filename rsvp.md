@@ -3,7 +3,7 @@ title: RSVP
 layout: doc
 ---
 
-## Kindly Respond
+# Kindly Respond
 
 We are so excited to celebrate our special day with you!
 

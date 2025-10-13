@@ -17,7 +17,7 @@ Sự hiện diện của các bạn là niềm vinh hạnh cho gia đình và v�
 Mời bạn đến tham dự bữa tiệc thân mật cùng gia đình chúng mình.
 
 - ⏰ **Ngày:** Thứ Hai, 11:00, ngày 29 tháng 12 năm 2025
-- 📍 **Địa điểm:** Trống Đồng Palace, 40 Hàng Cót, Hàng Mã, Hoàn Kiếm, Hà Nội
+- 📍 **Địa điểm:** Trống Đồng Palace, 40 Hàng Cót, Hoàn Kiếm, Hà Nội
 
 <Countdown :from="today" :to="eventHanoi" locale="vi" />
 

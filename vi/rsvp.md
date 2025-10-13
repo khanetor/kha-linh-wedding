@@ -3,7 +3,7 @@ title: Xác nhận tham dự
 layout: doc
 ---
 
-## Xác nhận tham dự
+# Xác nhận tham dự
 
 Chúng mình rất vui mừng được kỷ niệm ngày đặc biệt cùng với bạn!
 
