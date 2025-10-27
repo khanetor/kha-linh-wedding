@@ -77,3 +77,11 @@ div._gallery p, div._vi_gallery p {
     grid-template-columns: repeat(3, 1fr);
     gap: 1rem;
 }
+
+div._gallery p img, div._vi_gallery p img {
+    border-style: solid;
+    border-color: var(--vp-c-bg-soft);
+    border-width: 0.5rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
